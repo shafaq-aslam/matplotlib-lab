@@ -67,37 +67,24 @@ matplotlib-lab/
 ### 🔹 **Basic Plots**
 | Notebook | Description |
 |-----------|--------------|
-| **Line_Chart** | Creating and customizing line plots |
-| **Bar_and_Pie_Charts** | Building bar and pie charts for categorical data |
-| **Customizing_Axis_and_Labels** | Adding labels, titles, ticks, and gridlines |
-| **Figure_and_Axis_Objects** | Understanding the Figure-Axes hierarchy in Matplotlib |
 
 ---
 
 ### 🔹 **Intermediate**
 | Notebook | Description |
 |-----------|--------------|
-| **Subplots_and_Layouts** | Managing multiple plots in one figure |
-| **Styling_and_Colors** | Customizing colors, markers, and line styles |
-| **Legends_and_Annotations** | Adding legends and annotations for clarity |
-| **Text_and_Titles** | Formatting titles, text, and labels |
 
 ---
 
 ### 🔹 **Advanced**
 | Notebook | Description |
 |-----------|--------------|
-| **Scatter_Plots_and_Histograms** | Visualizing distributions and correlations |
-| **Box_and_Violin_Plots** | Statistical visualizations for insights |
-| **Multiple_Axes_and_TwinX** | Working with multiple axes in one figure |
-| **Real_World_Data_Visualizations** | Applying Matplotlib to real datasets |
 
 ---
 
 ### 🔹 **Datasets**
 | Dataset | Description |
 |---------|-------------|
-| **sales.csv / covid_cases.csv / students_performance.csv / population.csv** | Real-world datasets for hands-on visualization practice |
 
 ---
 
