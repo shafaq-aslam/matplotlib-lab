@@ -72,7 +72,13 @@ matplotlib-lab/
 
 ### 🔹 **Basic Plots**
 | Notebook | Description |
-|-----------|--------------|
+|----------|-------------|
+| **2D_line_plot.ipynb** | Introduction to line graphs, axis labels, markers, and styles. |
+| **Bar_Chart.ipynb** | Creating vertical & horizontal bar charts with customization. |
+| **Pie_chart.ipynb** | Making pie charts with labels, percentages, and explode effects. |
+| **Histogram.ipynb** | Understanding distributions using histograms and bins. |
+| **Scatter_Plots.ipynb** | Plotting relationships between variables with scatter plots. |
+| **barchart.jpg / line graph.png / sample_histogram.png / scatter-plot.png / pie-chart.svg / histogram.svg** | Sample visual outputs from the notebooks. |
 
 ---
 
