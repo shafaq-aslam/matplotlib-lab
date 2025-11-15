@@ -102,6 +102,14 @@ matplotlib-lab/
 ### 🔹 **Datasets**
 | Dataset | Description |
 |---------|-------------|
+| **IPL_Ball_by_Ball_2008_2022.csv** | Ball-by-ball IPL data (2008–2022). |
+| **batsman_season_record.csv** | Season-wise batting stats. |
+| **batter.csv** | Player-wise batting details. |
+| **gayle-175.csv** | Chris Gayle’s historic 175* innings data. |
+| **sharma-kohli.csv** | Sharma vs. Kohli performance comparison. |
+| **vk.csv** | Virat Kohli’s performance dataset. |
+| **iris.csv** | Classic Iris dataset for ML visualizations. |
+| **big-array.npy** | Large NumPy array for performance & plotting tests. |
 
 ---
 
