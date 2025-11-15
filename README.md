@@ -35,29 +35,35 @@ Each notebook is a step toward mastering **plotting fundamentals**, **customizin
 matplotlib-lab/
 │
 └── Matplotlib/
-    ├── Basic_Plots/
-    │   ├── Line_Chart.ipynb
-    │   ├── Bar_and_Pie_Charts.ipynb
-    │   ├── Customizing_Axis_and_Labels.ipynb
-    │   └── Figure_and_Axis_Objects.ipynb
-    │
-    ├── Intermediate/
-    │   ├── Subplots_and_Layouts.ipynb
-    │   ├── Styling_and_Colors.ipynb
-    │   ├── Legends_and_Annotations.ipynb
-    │   └── Text_and_Titles.ipynb
+    ├── Basic Matplotlib/
+    │   ├── 2D_line_plot.ipynb
+    │   ├── Bar_Chart.ipynb
+    |   ├── Pie_chart.ipynb
+    │   ├── Histogram.ipynb
+    │   ├── Scatter_Plots.ipynb
+    │   ├── barchart.jpg
+    │   ├── line graph.png
+    │   ├── sample_histogram.png
+    │   ├── scatter-plot.png
+    │   ├── pie-chart.svg
+    │   └── histogram.svg
     │
     ├── Advanced/
-    │   ├── Scatter_Plots_and_Histograms.ipynb
-    │   ├── Box_and_Violin_Plots.ipynb
-    │   ├── Multiple_Axes_and_TwinX.ipynb
-    │   └── Real_World_Data_Visualizations.ipynb
+    │   ├── Advanced_Scatter_Plots.ipynb
+    │   ├── Subplots.ipynb
+    │   ├── 3d_graphs_plotting.ipynb
+    │   ├── heatmap.ipynb
+    │   └── Pandas_plot.ipynb
     │
     └── Datasets/
-        ├── sales.csv
-        ├── covid_cases.csv
-        ├── students_performance.csv
-        └── population.csv
+        ├── IPL_Ball_by_Ball_2008_2022.csv
+        ├── batsman_season_record.csv
+        ├── batter.csv
+        ├── gayle-175.csv
+        ├── sharma-kohli.csv
+        ├── vk.csv
+        ├── iris.csv
+        └── big-array.npy
 </pre>
 
 ---
