@@ -90,7 +90,12 @@ matplotlib-lab/
 
 ### 🔹 **Advanced**
 | Notebook | Description |
-|-----------|--------------|
+|----------|-------------|
+| **Advanced_Scatter_Plots.ipynb** | Enhanced scatter plots using size, color maps, and annotations. |
+| **Subplots.ipynb** | Creating multi-plot grids and complex layouts. |
+| **3d_graphs_plotting.ipynb** | Rendering 3D plots using Matplotlib’s `mplot3d` toolkit. |
+| **heatmap.ipynb** | Heatmaps for correlation, matrix visualization, and color maps. |
+| **Pandas_plot.ipynb** | Using Pandas' built-in `.plot()` for quick data visualizations. |
 
 ---
 
