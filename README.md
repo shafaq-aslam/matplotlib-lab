@@ -82,12 +82,6 @@ matplotlib-lab/
 
 ---
 
-### 🔹 **Intermediate**
-| Notebook | Description |
-|-----------|--------------|
-
----
-
 ### 🔹 **Advanced**
 | Notebook | Description |
 |----------|-------------|
