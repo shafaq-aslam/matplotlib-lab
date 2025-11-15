@@ -108,8 +108,8 @@ matplotlib-lab/
 ---
 
 ## 📚 Learning Resources
-- 🔹 [CampusX](https://www.youtube.com/live/XaKn_cKFlSY?si=C2Cd9Sj2LT7nriLz)
-- 🔹 [CampusX](https://www.youtube.com/live/7YDc5xU9CQQ?si=h3ndUs9-0-1Vuf3D)
+- 🔹 [CampusX - Basic Matplotlib](https://www.youtube.com/live/XaKn_cKFlSY?si=C2Cd9Sj2LT7nriLz)
+- 🔹 [CampusX - Advance Matplotlib](https://www.youtube.com/live/7YDc5xU9CQQ?si=h3ndUs9-0-1Vuf3D)
 
 ---
 
