@@ -108,11 +108,8 @@ matplotlib-lab/
 ---
 
 ## 📚 Learning Resources
-
-- 🔹 [Matplotlib Official Docs](https://matplotlib.org/stable/contents.html)
-- 🔹 [Matplotlib Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-- 🔹 [Python Data Visualization by freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4)
-- 🔹 [Data Visualization with Python on Kaggle](https://www.kaggle.com/learn/data-visualization)
+- 🔹 [CampusX](https://www.youtube.com/live/XaKn_cKFlSY?si=C2Cd9Sj2LT7nriLz)
+- 🔹 [CampusX](https://www.youtube.com/live/7YDc5xU9CQQ?si=h3ndUs9-0-1Vuf3D)
 
 ---
 
